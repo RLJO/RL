@@ -210,3 +210,15 @@
 	path = payments_usd_mxn
 	url = https://github.com/RLCO/payments_usd_mxn.git
 	branch = master
+[submodule "app-odoo"]
+	path = app-odoo
+	url = https://github.com/RLCO/app-odoo.git
+	branch = 12.0
+[submodule "odoo-pim"]
+	path = odoo-pim
+	url = https://github.com/RLCO/odoo-pim.git
+	branch = 12.0
+[submodule "odoo-shopinvader-payment"]
+	path = odoo-shopinvader-payment
+	url = https://github.com/RLCO/odoo-shopinvader-payment.git
+	branch = 12.0
