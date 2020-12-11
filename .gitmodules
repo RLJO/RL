@@ -1,0 +1,4 @@
+[submodule "RLJO/lustre-odoo"]
+	path = RLJO/lustre-odoo
+	url = git@github.com:RLJO/lustre-odoo.git
+	branch = master
