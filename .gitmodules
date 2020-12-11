@@ -2,3 +2,8 @@
 	path = Odoo_Addons-1
 	url = https://github.com/WithPrice/Odoo_Addons-1.git
 	branch = master
+
+[submodule "WithPrice/Odoo_Addons-1"]
+	path = WithPrice/Odoo_Addons-1
+	url = git@github.com:WithPrice/Odoo_Addons-1.git
+	branch = 67
